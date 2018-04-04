@@ -7,6 +7,7 @@ namespace cracking_the_coding_interview_CSharp
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
